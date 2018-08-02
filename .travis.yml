@@ -1,4 +1,4 @@
 language: python
 python:
   - "3.6"
-script: python my/test_math.py
+script: python D:\Meetup-GitHub\python-with-test.py
